@@ -1,0 +1,15 @@
+.aa{
+    padding: 5px;
+    background-color: brown;
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 5px;
+}
+.asus{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+}
